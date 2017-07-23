@@ -4,3 +4,5 @@ Git has a mutable index called stage.
 Remoting test for Git on Github.
 Creating a new branch is quick.
 New Crea a new branch is quick very much.
+Creating a new branch is quick AND simple.
+Creating a another new branch is quick And simple.
